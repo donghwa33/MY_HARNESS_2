@@ -1,0 +1,8 @@
+# 하한만 지정: 시험 환경의 Python 버전과 충돌하지 않도록
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
+fastapi>=0.100
+uvicorn>=0.23
+httpx>=0.24

@@ -9,7 +9,7 @@
 | DB | SQLite (표준 `sqlite3`, WAL) | 설치 없이 트랜잭션·외래 키 |
 | 계산 | 순수 파이썬 모듈, 필요하면 OR-Tools | 웹·DB 없이 단독 테스트, 알고리즘 교체 |
 | 화면 | 정적 HTML + fetch (+ Canvas/SVG) | 빌드 없이 동작, 서버 결과만 표시 |
-| 실행 | `uvicorn app.main:app --host 0.0.0.0 --port 8000` | 미리보기 도구 조건 |
+| 실행 | `uvicorn app.main:app --host 0.0.0.0 --port 3000` | 미리보기 도구 조건 |
 
 ## 2. 폴더
 ```
